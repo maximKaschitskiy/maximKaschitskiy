@@ -5,6 +5,6 @@
 ***
 Контакты:  
 [Telegram](https://t.me/maximkaschitskiy)  
-[Email](maxim.kaschitskiy@yandex.ru)  
+[Email](mailto:maxim.kaschitskiy@yandex.ru)  
 [Facebook](https://www.facebook.com/maxim.kaschitskiy/)
 
