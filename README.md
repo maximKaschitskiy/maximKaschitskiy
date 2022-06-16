@@ -1,10 +1,9 @@
-Finished Yandex-Prakticum courses.
-I want to get into the IT-profession.
-Looking for a job or internship.
-Learned and keep studying: HTML, CSS, JS, React, Node.js
+Finished Yandex-Prakticum courses.  
+I want to get into the IT-profession.  
+Looking for a job or internship.  
+Learned and keep studying: HTML, CSS, JS, React, Node.js  
 ***
 Contacts:  
 [Telegram](https://t.me/maximkaschitskiy)  
 [Email](mailto:maxim.kaschitskiy@yandex.ru)  
-[Facebook](https://www.facebook.com/maxim.kaschitskiy/)
-
+[Facebook](https://www.facebook.com/maxim.kaschitskiy/)  
