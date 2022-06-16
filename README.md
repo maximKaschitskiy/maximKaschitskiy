@@ -6,4 +6,3 @@ Learned and keep studying: HTML, CSS, JS, React, Node.js
 Contacts:  
 [Telegram](https://t.me/maximkaschitskiy)  
 [Email](mailto:maxim.kaschitskiy@yandex.ru)  
-[Facebook](https://www.facebook.com/maxim.kaschitskiy/)  
