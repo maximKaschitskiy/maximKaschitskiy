@@ -1,4 +1,4 @@
-Finished Yandex-Prakticum courses.  
+Finished Yandex-Practicum courses.  
 Want to get into the IT-profession.  
 Looking for a job or internship.  
 Learned and keep studying: HTML, CSS, JS, React, Node.js  
