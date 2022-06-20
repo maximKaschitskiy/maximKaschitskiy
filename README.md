@@ -1,4 +1,4 @@
-# Hi, I'm Maxim Kaschitskiy! 👋
+# 👋 Hi, I'm Maxim Kaschitskiy!
 
 Finished Yandex-Practicum courses.  
 Want to get into the IT-profession.  
