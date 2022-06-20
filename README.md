@@ -5,7 +5,7 @@ Want to get into the IT-career.
 Looking for a job or internship.  
 I enjoy coding and layout, like to solve logical tasks and the technical aspects of the profession.  
 Worked as a video editor and motion designer in the past.  
-In my free time, I am engaged in a pet project, solving tasks in JS, reading articles and manuals on specialized resources.  
+In my free time, I am engaged in the pet project, solving tasks in JS, reading articles and manuals on specialized resources.  
 I take a great interest in vintage and retro musical instruments.  
 
 ## 🔗 Links
