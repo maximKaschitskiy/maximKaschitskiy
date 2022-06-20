@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maxim Kaschitskiy!
 
 Finished Yandex-Practicum courses.  
-Want to get into the IT-profession.  
+Want to get into the IT-career.  
 Looking for a job or internship.  
 Worked as a video editor and motion designer in the past.
 
