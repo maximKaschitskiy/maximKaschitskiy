@@ -4,10 +4,9 @@ Finished Yandex-Practicum courses.
 Want to get into the IT-career.  
 Looking for a job or internship.  
 Worked as a video editor and motion designer in the past.
-I aspire to web development, because of the "ceiling" in the previous area.  
-I enjoy coding and layout. I like to solve logical problems, I like the technical aspects of the profession.  
-In my free time, I am engaged in a pet project, solving problems in JS, reading articles and manuals on specialized resources.  
-I am fond of vintage and retro musical instruments.  
+I enjoy coding and layout, like to solve logical tasks and the technical aspects of the profession.  
+In my free time, I am engaged in a pet project, solving tasks in JS, reading articles and manuals on specialized resources.  
+I take a great interest in vintage and retro musical instruments.  
 
 ## 🔗 Links
 [![telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/maximkaschitskiy)[![email](https://img.shields.io/badge/Email-dimgrey?style=for-the-badge)](mailto:maxim.kaschitskiy@yandex.ru)[![cv](https://img.shields.io/badge/Full_CV-grey?style=for-the-badge)](http://cvmkr.com/u8RkN)
