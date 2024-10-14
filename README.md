@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maxim Kaschitskiy!
 
-On this page you can see pet projects, studing projects and test tasks. For make builds i use WebPack and Parcel. In my spare time, I write a pet project in ExtendScript💻
+On this page you can see pet projects, studing projects and test tasks. In my spare time, I write a pet project in ExtendScript💻
 
 ## 🔗 Links
 [![telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/synthfreak)[![email](https://img.shields.io/badge/Email-dimgrey?style=for-the-badge)](mailto:maxim.kaschitskiy@yandex.ru)[![portfolio](https://img.shields.io/badge/portfolio-dimgrey?style=for-the-badge)](https://maximkaschitskiy.github.io/portfolio/)
