@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maxim Kaschitskiy!
 
-On this page you can see pet projects, studing projects and test tasks written in Typescript, MUI, emotion, and several other libraries and frameworks. For make builds i use WebPack and Parcel . I can deploy parts of apps on cloud services, like Heroku, Netfliy, Vercel, GitHub Pages, Firebase, Google Cloud, Amazon AWS/RDS and Azure, MongoDB Atlas and others. I have 10 years of experience with visual content, video, static graphics and animation for TV, and educational content. Excellent knowledge of Adobe Creative Cloud applications: Photoshop, Illustrator, After Effects, Premiere etc. At this moment I'm continuing my studies in the middle course at School of data analysis, where I've started to draw the layout from scratch, MVP development, template makers (such as Handlebars) and preprocessors (such as Stylus). I regularly visit Codewars and solve algorithmic tasks. In my spare time, I write a pet project in ExtendScript💻
+On this page you can see pet projects, studing projects and test tasks. For make builds i use WebPack and Parcel. In my spare time, I write a pet project in ExtendScript💻
 
 ## 🔗 Links
 [![telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/synthfreak)[![email](https://img.shields.io/badge/Email-dimgrey?style=for-the-badge)](mailto:maxim.kaschitskiy@yandex.ru)[![portfolio](https://img.shields.io/badge/portfolio-dimgrey?style=for-the-badge)](https://maximkaschitskiy.github.io/portfolio/)
